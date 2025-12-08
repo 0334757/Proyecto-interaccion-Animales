@@ -144,3 +144,4 @@ document.querySelectorAll('.filter-btn').forEach(btn => {
 
 // Inicializar la aplicación
 renderBreeds();
+
